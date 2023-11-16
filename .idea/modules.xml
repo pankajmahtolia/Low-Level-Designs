@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BowlingSystem/BowlingSystem.iml" filepath="$PROJECT_DIR$/BowlingSystem/BowlingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Low-Level-Designs.iml" filepath="$PROJECT_DIR$/.idea/Low-Level-Designs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitWise/SplitWise.iml" filepath="$PROJECT_DIR$/SplitWise/SplitWise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
+    </modules>
+  </component>
+</project>
