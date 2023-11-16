@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BowlingSystem/BowlingSystem.iml" filepath="$PROJECT_DIR$/BowlingSystem/BowlingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/In-MemoryFileSystem/In-MemoryFileSystem.iml" filepath="$PROJECT_DIR$/In-MemoryFileSystem/In-MemoryFileSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Low-Level-Designs.iml" filepath="$PROJECT_DIR$/.idea/Low-Level-Designs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAutoComplete/SearchAutoComplete.iml" filepath="$PROJECT_DIR$/SearchAutoComplete/SearchAutoComplete.iml" />
       <module fileurl="file://$PROJECT_DIR$/SplitWise/SplitWise.iml" filepath="$PROJECT_DIR$/SplitWise/SplitWise.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
     </modules>

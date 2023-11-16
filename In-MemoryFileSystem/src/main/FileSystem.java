@@ -32,8 +32,7 @@
 //        [b]
 
 
-package main.java;
-
+package main;
 import java.io.File;
 import java.util.*;
 import java.util.stream.Stream;
